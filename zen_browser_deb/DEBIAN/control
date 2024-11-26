@@ -1,0 +1,10 @@
+Source: zen-browser
+Priority: optional
+Maintainer: Muhammet Halak <halakmuhammet145@gmail.com>
+Section: misc
+Standards-Version: 1.0.1-a.19-b
+Build-Depends: debhelper (>= 9)
+Package: zen-browser
+Architecture: amd64
+Description: Zen browser web browser is moder Firefox
+Version: 1.0.1-a.19-b

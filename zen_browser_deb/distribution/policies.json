@@ -1,0 +1,16 @@
+{
+  "policies": {
+  "Preferences": {
+      "toolkit.legacyUserProfileCustomizations.stylesheets": true
+    },
+    "Extensions": {
+      "Install": [
+        "https://addons.mozilla.org/firefox/downloads/file/4246774/sidebery-5.2.0.xpi",
+        "https://addons.mozilla.org/firefox/downloads/file/4245500/traduzir_paginas_web-10.0.1.1.xpi",
+        "https://addons.mozilla.org/firefox/downloads/file/3940751/tabliss-2.6.0.xpi"
+      ],
+      "Uninstall": [],
+      "Locked": []
+    }
+  }
+}
